@@ -21,7 +21,7 @@ available_regions:
   - sa-east-1
 image: https://assets.artifakt.io/artifacts/quickstart-artifact.png
 category: other
-main_language: javascript
+main_language: javascrip
 license:
    code: mit
    name: MIT
